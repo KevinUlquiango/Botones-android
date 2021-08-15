@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">BotonesKevinUlquiango</string>
+    <string name="app_name">BotonesKevinUlquiango</string>\
+    <string name="String_txt_num1">Ingrese el primer valor</string>
+    <string name="String_txt_num2">Ingrese el segundo valor</string>
+    <string name="string_btn_calcular">Calcular</string>
+        <string name="string_txt_resultado">Resultado</string>
 </resources>
